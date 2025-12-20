@@ -135,7 +135,7 @@ export default function Branding() {
           <h2 className="text-3xl font-bold mb-12">Usage Guidelines</h2>
           <div className="space-y-4">
             <div className="p-6 border border-white/5 rounded-2xl bg-white/[0.02]">
-              <h3 className="font-semibold text-white mb-2">✓ Do's</h3>
+              <h3 className="font-semibold text-white mb-2">✓ Do&apos;s</h3>
               <ul className="space-y-2 text-[#7784A0] text-sm">
                 <li>• Use the primary blue (#6067F9) for all interactive elements</li>
                 <li>• Maintain clear space around the logo</li>
@@ -144,12 +144,12 @@ export default function Branding() {
               </ul>
             </div>
             <div className="p-6 border border-white/5 rounded-2xl bg-white/[0.02]">
-              <h3 className="font-semibold text-white mb-2">✗ Don'ts</h3>
+              <h3 className="font-semibold text-white mb-2">✗ Don&apos;ts</h3>
               <ul className="space-y-2 text-[#7784A0] text-sm">
-                <li>• Don't modify or distort the logo</li>
-                <li>• Don't use unauthorized colors</li>
-                <li>• Don't apply gradient effects to the logo</li>
-                <li>• Don't use the logo at sizes smaller than 64px</li>
+                <li>• Don&apos;t modify or distort the logo</li>
+                <li>• Don&apos;t use unauthorized colors</li>
+                <li>• Don&apos;t apply gradient effects to the logo</li>
+                <li>• Don&apos;t use the logo at sizes smaller than 64px</li>
               </ul>
             </div>
           </div>

@@ -68,7 +68,7 @@ export default function Hero() {
             {[
               'Teams repeat the same tasks every day',
               'Data is processed manually across tools',
-              "Operations don't scale with growth",
+              'Operations don&apos;t scale with growth',
               'Automation tools are complex to implement',
             ].map((feature) => (
               <div

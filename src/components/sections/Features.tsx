@@ -96,8 +96,8 @@ export default function Features() {
             A practical automation solution built for real businesses
           </h2>
           <p className="text-lg text-[#7784A0] max-w-2xl mx-auto">
-            We don't sell generic software. We build automation systems tailored to your workflows,
-            tools, and goals.
+            We don&apos;t sell generic software. We build automation systems tailored to your
+            workflows, tools, and goals.
           </p>
         </div>
 

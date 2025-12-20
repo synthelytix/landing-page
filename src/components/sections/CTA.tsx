@@ -13,10 +13,10 @@ export default function CTA() {
 
           <div className="relative z-10 flex flex-col items-center justify-center text-center space-y-6">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-prompt">
-              Let's automate your operations
+              Let&apos;s automate your operations
             </h2>
             <p className="text-lg text-[#7784A0] max-w-2xl">
-              Tell us about your workflow. We'll design an automation that fits your business.
+              Tell us about your workflow. We&apos;ll design an automation that fits your business.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-6">
