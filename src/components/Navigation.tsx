@@ -2,16 +2,17 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Navigation() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navItems = [
-    { label: 'Browser', href: '#' },
-    { label: 'Mobile', href: '#' },
-    { label: 'Branding', href: '/branding' },
-    { label: 'Blog', href: '/blog' },
-    { label: 'Download', href: '/download' },
+    { label: 'Solutions', href: '#' },
+    { label: 'Process', href: '#' },
+    { label: 'Use Cases', href: '#' },
+    { label: 'Resources', href: '/blog' },
+    { label: 'Contact', href: '/download' },
   ];
 
   return (
@@ -20,7 +21,10 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href="/" className="text-2xl font-bold text-white">
-            Nightly
+            <span className="inline-flex items-center gap-3">
+              <Image src="/synthelytix-mark.svg" alt="Synthelytix logo" width={36} height={36} />
+              <span>Synthelytix</span>
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -38,7 +42,7 @@ export default function Navigation() {
 
           {/* CTA Button */}
           <button className="hidden md:flex items-center gap-2 px-6 py-2 bg-[#6067F9] hover:bg-[#5058E8] rounded-full text-white text-sm font-medium transition-colors">
-            Download
+            Request Demo
           </button>
 
           {/* Mobile Menu Toggle */}
@@ -80,7 +84,7 @@ export default function Navigation() {
               </Link>
             ))}
             <button className="w-full px-6 py-2 bg-[#6067F9] hover:bg-[#5058E8] rounded-full text-white text-sm font-medium transition-colors mt-4">
-              Download
+              Request Demo
             </button>
           </div>
         )}

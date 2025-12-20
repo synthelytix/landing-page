@@ -1,0 +1,16 @@
+<svg viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orbitStroke" x1="140" y1="140" x2="560" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9A2E"/>
+      <stop offset="1" stop-color="#E11D2E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="350" cy="350" r="250" fill="none" stroke="url(#orbitStroke)" stroke-width="6" opacity="0.12"/>
+  <circle cx="350" cy="350" r="190" fill="none" stroke="url(#orbitStroke)" stroke-width="4" opacity="0.12"/>
+  <circle cx="350" cy="350" r="120" fill="none" stroke="url(#orbitStroke)" stroke-width="3" opacity="0.14" stroke-dasharray="18 14"/>
+  <path d="M220 230C300 260 380 260 470 210" fill="none" stroke="url(#orbitStroke)" stroke-width="5" opacity="0.12" stroke-linecap="round"/>
+  <path d="M260 470C330 420 410 420 470 480" fill="none" stroke="url(#orbitStroke)" stroke-width="5" opacity="0.12" stroke-linecap="round"/>
+  <circle cx="470" cy="210" r="10" fill="#FFFFFF" opacity="0.1" stroke="url(#orbitStroke)" stroke-width="3"/>
+  <circle cx="260" cy="470" r="10" fill="#FFFFFF" opacity="0.1" stroke="url(#orbitStroke)" stroke-width="3"/>
+  <circle cx="350" cy="350" r="12" fill="#FFFFFF" opacity="0.08" stroke="url(#orbitStroke)" stroke-width="4"/>
+</svg>

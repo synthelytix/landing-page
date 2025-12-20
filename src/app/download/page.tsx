@@ -11,25 +11,25 @@ export default function Download() {
     browser: [
       {
         name: 'Windows (64-bit)',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: '92 MB',
         download: '#',
       },
       {
         name: 'macOS (Intel)',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: '110 MB',
         download: '#',
       },
       {
         name: 'macOS (Apple Silicon)',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: '105 MB',
         download: '#',
       },
       {
         name: 'Linux (x86)',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: '88 MB',
         download: '#',
       },
@@ -37,19 +37,19 @@ export default function Download() {
     mobile: [
       {
         name: 'iOS',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: 'App Store',
         download: '#',
       },
       {
         name: 'Android',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: 'Google Play',
         download: '#',
       },
       {
         name: 'iPad',
-        version: 'v124.0 Nightly',
+        version: 'v124.0 Synthelytix',
         size: 'App Store',
         download: '#',
       },
@@ -67,7 +67,7 @@ export default function Download() {
       <section className="pt-32 md:pt-40 pb-20 md:pb-32">
         <div className="max-w-[1440px] mx-auto px-4 md:px-8 lg:px-12 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-prompt mb-6">
-            Download Nightly
+            Download Synthelytix
           </h1>
           <p className="text-lg text-[#7784A0] max-w-2xl mx-auto">
             Get the latest nightly build for your platform

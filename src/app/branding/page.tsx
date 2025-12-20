@@ -8,7 +8,7 @@ export default function Branding() {
   const brandAssets = [
     {
       title: 'Logo',
-      description: 'Official Nightly logo in various formats',
+      description: 'Official Synthelytix logo in various formats',
       formats: ['SVG', 'PNG', 'PDF'],
     },
     {

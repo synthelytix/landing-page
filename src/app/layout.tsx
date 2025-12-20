@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nightly - Browser & Mobile",
-  description: "Experience the latest with Nightly",
+  title: "Synthelytix Automation Solutions",
+  description: "Automate business workflows to reduce manual work and scale operations.",
 };
 
 export default function RootLayout({

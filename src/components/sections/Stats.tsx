@@ -4,10 +4,10 @@ import React from 'react';
 
 export default function Stats() {
   const stats = [
-    { number: '50M+', label: 'Active Users', suffix: '' },
-    { number: '180+', label: 'Countries', suffix: '' },
-    { number: '99.9%', label: 'Uptime', suffix: '' },
-    { number: '24/7', label: 'Support', suffix: '' },
+    { number: 'Lead Ops', label: 'Lead qualification and automated CRM updates', suffix: '' },
+    { number: 'Reporting', label: 'Automated data collection and reporting', suffix: '' },
+    { number: 'Support', label: 'Customer support workflow automation', suffix: '' },
+    { number: 'Marketing', label: 'Marketing and growth operations automation', suffix: '' },
   ];
 
   return (
@@ -16,10 +16,11 @@ export default function Stats() {
         {/* Section Header */}
         <div className="text-center mb-16 md:mb-20">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-prompt mb-6">
-            By The Numbers
+            Common automation use cases
           </h2>
           <p className="text-lg text-[#7784A0] max-w-2xl mx-auto">
-            Join millions of users who trust Nightly
+            Built with reliability and security in mind. Designed for real operational workflows with
+            human-in-the-loop controls and secure, privacy-first data handling.
           </p>
         </div>
 
@@ -43,7 +44,7 @@ export default function Stats() {
         {/* Bottom CTA */}
         <div className="mt-16 md:mt-20 text-center">
           <button className="inline-flex items-center gap-2 px-8 py-4 bg-[#6067F9] hover:bg-[#5058E8] text-white rounded-lg font-medium transition-colors text-lg">
-            Get Started Today
+            See Use Cases
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
             </svg>

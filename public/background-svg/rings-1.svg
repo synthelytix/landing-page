@@ -1,0 +1,6 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="180" cy="180" r="150" stroke="#6067F9" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="12 12" />
+  <circle cx="180" cy="180" r="110" stroke="#6067F9" stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="180" cy="180" r="70" stroke="#6067F9" stroke-width="0.8" stroke-opacity="0.5" />
+  <circle cx="180" cy="180" r="30" fill="#6067F9" fill-opacity="0.15" />
+</svg>

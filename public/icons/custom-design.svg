@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="12" fill="url(#grad-puzzle)"/>
+  <path d="M16 16H24V20C24 21.6569 25.3431 23 27 23C28.6569 23 30 21.6569 30 20V16H32C33.1046 16 34 16.8954 34 18V32C34 33.1046 33.1046 34 32 34H18C16.8954 34 16 33.1046 16 32V16Z" fill="white" fill-opacity="0.9"/>
+  <path d="M16 16V13C16 11.8954 16.8954 11 18 11H23C24.1046 11 25 11.8954 25 13C25 14.1046 25.8954 15 27 15H30C31.1046 15 32 15.8954 32 17V20" stroke="#4751D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="grad-puzzle" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A0E17B"/>
+      <stop offset="1" stop-color="#4FBF79"/>
+    </linearGradient>
+  </defs>
+</svg>

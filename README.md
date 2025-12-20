@@ -1,4 +1,4 @@
-# Nightly App - Next.js
+# Synthelytix App - Next.js
 
 A modern web application recreating the nightly.app interface using Next.js, React, and Tailwind CSS.
 

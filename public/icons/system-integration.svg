@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="12" fill="url(#grad-chain)"/>
+  <path d="M17 30L21 26C22.6569 24.3431 25.3431 24.3431 27 26C28.6569 27.6569 28.6569 30.3431 27 32L23 36" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31 18L27 22C25.3431 23.6569 22.6569 23.6569 21 22C19.3431 20.3431 19.3431 17.6569 21 16L25 12" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M19 34C16.2386 34 14 31.7614 14 29C14 26.2386 16.2386 24 19 24" stroke="white" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M29 14C31.7614 14 34 16.2386 34 19C34 21.7614 31.7614 24 29 24" stroke="white" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="grad-chain" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5DE1FF"/>
+      <stop offset="1" stop-color="#3677FF"/>
+    </linearGradient>
+  </defs>
+</svg>

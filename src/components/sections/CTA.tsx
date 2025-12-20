@@ -13,19 +13,18 @@ export default function CTA() {
 
           <div className="relative z-10 flex flex-col items-center justify-center text-center space-y-6">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-prompt">
-              Ready to Experience the Future?
+              Let's automate your operations
             </h2>
             <p className="text-lg text-[#7784A0] max-w-2xl">
-              Join thousands of early adopters who are already using Nightly to stay ahead of the
-              curve. Download now and get exclusive early access to upcoming features.
+              Tell us about your workflow. We'll design an automation that fits your business.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-6">
               <button className="px-8 py-3 bg-[#6067F9] hover:bg-[#5058E8] text-white rounded-lg font-medium transition-colors">
-                Download for Desktop
+                Start Discussion
               </button>
               <button className="px-8 py-3 border border-white/10 hover:border-white/20 text-white rounded-lg font-medium transition-colors">
-                Download for Mobile
+                Contact Us
               </button>
             </div>
 
@@ -35,19 +34,19 @@ export default function CTA() {
                 <svg className="w-5 h-5 text-[#6067F9]" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>100% Free</span>
+                <span>Analyze workflows and bottlenecks</span>
               </div>
               <div className="flex items-center gap-2">
                 <svg className="w-5 h-5 text-[#6067F9]" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Open Source</span>
+                <span>Design and deploy automation</span>
               </div>
               <div className="flex items-center gap-2">
                 <svg className="w-5 h-5 text-[#6067F9]" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Cross Platform</span>
+                <span>Monitor and optimize performance</span>
               </div>
             </div>
           </div>
